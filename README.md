@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi! I'm Pablo 👋
+
+## About me
+```js
+const pabloalcaraz = {
+pronouns: "he" | "him",
+code: [Javascript, Typescript, HTML, CSS],
+tools: [React, Angular, Node, Storybook, Styled-Components, Jest, Firebase, Azure]
+```
+
+## You can find me:
+- [Twitter](https://twitter.com/pabloat)
 
 <!--
 **pabloalcaraz/pabloalcaraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
