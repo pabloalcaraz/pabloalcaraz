@@ -4,7 +4,7 @@
 ```js
 const pabloalcaraz = {
 code: [Javascript, Typescript, HTML, CSS],
-tools: [React, Angular, Node, Storybook, Styled-Components, Jest, Firebase, Azure]
+tools: [React, Angular, Node, Graphql, Storybook, Styled-Components, Firebase, Azure]
 }
 ```
 
