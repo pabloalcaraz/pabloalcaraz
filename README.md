@@ -3,9 +3,9 @@
 ## About me
 ```js
 const pabloalcaraz = {
-pronouns: "he" | "him",
 code: [Javascript, Typescript, HTML, CSS],
 tools: [React, Angular, Node, Storybook, Styled-Components, Jest, Firebase, Azure]
+}
 ```
 
 ## You can find me:
